@@ -1,5 +1,12 @@
 # Enqueue Filesystem Transport
 
+[![Gitter](https://badges.gitter.im/php-enqueue/Lobby.svg)](https://gitter.im/php-enqueue/Lobby)
+[![Build Status](https://travis-ci.org/php-enqueue/fs.png?branch=master)](https://travis-ci.org/php-enqueue/fs)
+[![Total Downloads](https://poser.pugx.org/enqueue/fs/d/total.png)](https://packagist.org/packages/enqueue/fs)
+[![Latest Stable Version](https://poser.pugx.org/enqueue/fs/version.png)](https://packagist.org/packages/enqueue/fs)
+ 
+This is an implementation of PSR queue specification. It allows you to send and consume message stored locally in files.
+
 ## Resources
 
 * [Documentation](https://github.com/php-enqueue/enqueue-dev/blob/master/docs/index.md)
