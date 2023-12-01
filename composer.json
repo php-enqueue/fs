@@ -1,5 +1,5 @@
 {
-    "name": "enqueue/fs",
+    "name": "outofboxlab/fs",
     "type": "library",
     "description": "Enqueue Filesystem based transport",
     "keywords": ["messaging", "queue", "filesystem", "local"],
