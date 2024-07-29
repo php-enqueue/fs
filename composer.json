@@ -18,7 +18,8 @@
         "enqueue/test": "0.10.x-dev",
         "queue-interop/queue-spec": "^0.6.2",
         "symfony/dependency-injection": "^5.4|^6.0|^7.0",
-        "symfony/yaml": "^5.4|^6.0|^7.0"
+        "symfony/yaml": "^5.4|^6.0|^7.0",
+        "symfony/phpunit-bridge": "^7.1"
     },
     "support": {
         "email": "opensource@forma-pro.com",
